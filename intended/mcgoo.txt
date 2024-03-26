@@ -1,0 +1,2 @@
+snmp password password
+tacacs type 7 secret
