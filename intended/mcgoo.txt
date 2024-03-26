@@ -1,2 +1,2 @@
-snmp password <redacted>
+snmp community <redacted>
 tacacs type 7 <redacted>
