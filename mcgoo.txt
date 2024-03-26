@@ -1,0 +1,2 @@
+snmp community password
+tacacs type 7 0215015819031B
