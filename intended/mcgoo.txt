@@ -1,2 +1,2 @@
-snmp community {{ snmp | get_secret_by_secret_group_name("snmp") }}
+snmp community {{ "snmp" | get_secret_by_secret_group_name("snmp") }}
 tacacs type 7 <redacted>
